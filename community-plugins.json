@@ -18660,5 +18660,12 @@
     "author": "Finickyspider",
     "description": "Adds a copy as plaintext command to the command palette and context menu.",
     "repo": "FinickySpider/Obsidian-Copy-as-Plaintext"
+  },
+  {
+    "id": "frontmatter-input",
+    "name": "Frontmatter input",
+    "author": "Scott Gray".
+    "description": "Use checkboxes and radio buttons in your markdown files to set frontmatter tags.",
+    "repo": "scottgrayart/Frontmatter-input"
   }
 ]
